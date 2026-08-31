@@ -282,6 +282,7 @@ research content, sources, localization, and overall quality.
   </sub>
 </p>
 </div>
+
 ---
 
 ## ⚠️ Scientific Integrity
@@ -324,4 +325,3 @@ This project is part of my ongoing work on **Artificial Intelligence, AI systems
   <strong>Artificial Intelligence is moving from prediction toward action.</strong><br>
   <strong>The next challenge is making that action reliable.</strong>
 </p>
-````0[❶](code://python)
