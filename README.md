@@ -61,7 +61,6 @@ way, with an emphasis on evidence and reliable sources rather than hype.
 - Citation and reference structure
 - GitHub Pages-ready deployment
 
-> 🇮🇷 Persian and 🇩🇪 German translations are currently incomplete and will be expanded soon.
 
 ### Tech Stack
 
@@ -138,7 +137,6 @@ The project has gone through multiple audit and verification passes covering:
 - ساختار منظم برای منابع و ارجاعات
 - آماده برای استقرار روی GitHub Pages
 
-> ترجمه‌های فارسی و آلمانی هنوز کامل نیستند و به‌زودی تکمیل و اضافه می‌شوند.
 
 ### فناوری‌ها
 
@@ -214,8 +212,6 @@ zuverlässige Quellen statt auf übertriebene KI-Versprechen zu legen.
 - Automatisierte Validierung
 - Strukturierte Quellen und Zitate
 - Für GitHub Pages vorbereitet
-
-> Die persischen und deutschen Übersetzungen sind derzeit noch nicht vollständig und werden in Kürze erweitert.
 
 ### Technologien
 
@@ -306,8 +302,8 @@ No fake benchmarks, no fake citations, no fake authors, no fake affiliations.
 ## 🌍 Localization
 
 - **English** — available now
-- **فارسی** — coming soon
-- **Deutsch** — coming soon
+- **فارسی** — available now
+- **Deutsch** — available now
 
 ---
 
